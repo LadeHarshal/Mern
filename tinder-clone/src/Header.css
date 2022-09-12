@@ -1,0 +1,12 @@
+.Header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    z-index: 100; /* To always keep it on top  */
+}
+
+.logocenter{
+    object-fit: contain;
+    height: 50px;
+
+}
